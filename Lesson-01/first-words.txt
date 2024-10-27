@@ -1,0 +1,25 @@
+Э́то я.;This (That) is me.;Eta ya
+Óчень прия́тно.;Nice to meet you.;Ochen’ priyatna
+Как тебя́ зовýт?;What is your name?;Kak tibya zavoot
+Меня зовýт _________;My name is _________;Minya zavoot _________
+А тебя́?;And yours (And your name)?;A tibya
+Как егó зовýт?;What is his name?;Kak yivo zavoot
+Егó зовýт _______;His name is _______;Yivo zavoot
+Как её зовýт?;What is her name?;Kak yiyo zavoot
+Её зовýт ________;Her name is ________;Yiyo zavoot
+Привéт!;Hello! Hi! (casual);Privet
+Здрáвствуйте! Здравствуй!;Hello! (formal);Zdrast-vooy-tye Zdrast-vooy!
+Спаси́бо.;Thank you!;Spasiba
+Пожáлуйста.;Please, Here you are, You are welcome!;Pa-zhA-looy-sta
+Как делá?;How is it going?;Kak dila
+Как у тебя́ делá?;How are things with you?;Kak oo tibya dila
+А у тебя́?;And you?;A oo tibya
+Хорошó!;Good!;Harasho
+(Не)плóхо.;(Not) bad;(Ni)ploha
+Нормáльно.;OK;Narmalna
+Ничегó.;OK;Nichivo
+Отли́чно!;Excellent!;Atlichna
+Да.;Yes.;Da
+Нет.;No.;Nyet
+Пока.;Bye.;Paka
+До свидания.;Good-bye.;Da svidАniya

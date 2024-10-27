@@ -1,0 +1,18 @@
+Ад;Hell;Ad
+Бал;Ball;Bal
+Вот;Here;Vot
+Где;Where;Gdye
+Да;Yes;Da
+Два;Two;Dva
+Дед;Grandfather;Ded
+Ел;Ate (Past tense of eat);Yel
+Ёж;Hedgehog;Yozh
+Жизнь;Life;Zhizn
+Как;How;Kak
+Кто;Who;Kto
+Леc;Forest;Les
+Муж;Husband;Muzh
+На;On;Na
+Он;He;On
+Пар;Steam;Par
+Род;Family (kin);Rod

@@ -1,0 +1,33 @@
+Аа;A as in father;А
+Бб;B as in Bob;бэ
+Вв;V as in Vera;вэ
+Гг;G as in get;гэ
+Дд;D as in day;дэ
+Ее;Ye as in yes;е (ye)
+Ёё;Yo as in yoke;ё (yo)
+Жж;S (zh) as in vision;жэ
+Зз;Z as in zip;зэ
+Ии;Ee as in beet;и
+Йй;Y as in boy;и краткое (ee kratkaye) (и short)
+Кк;K as in kettle;ка
+Лл;L as in bull;эл (эль)
+Мм;M as in May;эм
+Нн;N as in note;эн
+Оо;Au as in d[au]ghter;о
+Пп;P as in pet;пэ
+Рр;R as in root;эр
+Сс;S as in sister;эс
+Тт;T as in ten;тэ
+Уу;Oo as in r[oo]m;у
+Фф;F as in film;эф
+Хх;H as in happy;ха
+Цц;Ts (zz) as in pe[ts], pi[zz]a;цэ
+Чч;Ch as in [ch]ild;чэ
+Шш;Sh as in ca[sh];ша
+Щщ;Sh as in she;ща
+Ъъ;- no sound; it keeps the preceding consonant hard and allows the following vowel to glide;твёрдый знак (tvyordiy znak) (hard sign)
+Ыы;Short vowel sound like between b and l in TABLE;ы
+Ьь;- no sound; it palatalizes the preceding consonant, allowing the following vowel to glide;мягкий знак (myahkiy znak) (soft sign)
+Ээ;A as in cat;э
+Юю;U as in unit;ю
+Яя;Ya as in yard;я

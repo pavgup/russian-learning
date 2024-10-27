@@ -1,0 +1,18 @@
+Áнна;Anna;Anna
+Бáба;Woman;Baba
+Винó;Wine;Vino
+Горá;Mountain;Gora
+Дéло;Business/affair;Delo
+Едá;Food;Yeda
+Ёлка;Fir tree (Christmas tree);Yolka
+Женá;Wife;Zhena
+Зимá;Winter;Zima
+Игрá;Game;Igra
+Кинó;Cinema;Kino
+Лáмпа;Lamp;Lampa
+Мáма;Mom;Mama
+Ногá;Leg;Noga
+Онá;She;Ona
+Они́;They;Oni
+Пáпа;Dad;Papa
+Ромáн;Novel (Romance);Roman
